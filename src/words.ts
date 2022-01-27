@@ -170,6 +170,8 @@ const answers = [
 'snare',
 'gnome',
 'bryce',
+  'eagle',
+  'armor',
 
 ]
 
